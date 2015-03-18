@@ -8,6 +8,10 @@
 ```
 java GenerateJSON block
 ```
-4) You will now be asked to enter the modId, and block name.
+For Generating the json files type
+```
+java GenerateJSON item
+```
+4) You will now be asked to enter the modId, and block/item name.
 
 5) The directories and files will be generated and sorted in the correct locations 
