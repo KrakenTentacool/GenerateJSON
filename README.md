@@ -8,7 +8,7 @@
 ```
 java GenerateJSON block
 ```
-For Generating the json files type
+For Generating the json files for items type
 ```
 java GenerateJSON item
 ```
